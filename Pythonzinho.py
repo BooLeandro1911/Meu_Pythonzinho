@@ -2,7 +2,7 @@ print (' Hello World ')
 
 
 
-def soma_dois (x,y)
+def soma_dois (x,y):
 
   b = x + y
 
